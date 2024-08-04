@@ -2,16 +2,15 @@
 
 We are a group of experienced developers and security researchers.
 
-Our main focus is to provide top-tier Web3 development
-and Blockchain security services.
+We provide top-notch Web3 development, Blockchain and Offensive security services. 
 
 **Here are some of our services:**
 
-→ Full-stack website development
+→ Full-stack website development;
 
-→ Smart contract development
+→ Smart contract development and Blockchain security research;
 
-→ Blockchain security research
+→ Pentest and security auditing;
 
 **Reach us:**
 
