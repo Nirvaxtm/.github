@@ -17,6 +17,4 @@ and Blockchain security services.
 
 → [Twitter](https://x.com/nirvaxtm)
 
-→ [LinkedIn](https://linkedin.com/nirvaxtm)
-
 → [Discord](https://discord.gg/cyberz)
