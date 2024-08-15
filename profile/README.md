@@ -16,6 +16,4 @@ We provide top-notch Web3 development, Blockchain and Offensive security service
 
 → [Twitter](https://x.com/nirvaxtm)
 
-→ [LinkedIn](https://linkedin.com/nirvaxtm)
-
 → [Discord](https://discord.gg/cyberz)
